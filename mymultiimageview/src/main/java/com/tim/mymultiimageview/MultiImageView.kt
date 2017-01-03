@@ -14,7 +14,7 @@
  * limitations under the License.
  *******************************************************************************/
 
-package com.tim.multiimageview
+package com.tim.mymultiimageview
 
 import android.content.Context
 import android.graphics.*
