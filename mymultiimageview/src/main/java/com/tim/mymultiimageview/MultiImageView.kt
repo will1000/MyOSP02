@@ -14,7 +14,7 @@
  * limitations under the License.
  *******************************************************************************/
 
-package com.stfalcon.multiimageview
+package com.tim.multiimageview
 
 import android.content.Context
 import android.graphics.*
